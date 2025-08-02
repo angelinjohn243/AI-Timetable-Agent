@@ -1,4 +1,4 @@
-# 🧠📅 AI Timetable Agent – Agentic Scheduling System using LangChain + CSP
+# 📅 AI Timetable Agent – Agentic Scheduling System using LangChain + CSP
 
 AI Timetable Agent is an intelligent **agent-based system** that generates academic timetables based on faculty, subjects, rooms, and constraints.
 
