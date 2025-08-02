@@ -71,7 +71,7 @@ Deployed on Hugging Face Spaces
 
 ## 📝 Author
 
-👩‍💻 **Angelin John (Marlu)**  
+👩‍💻 **Angelin John**  
 📍 Kerala, India  
 🎓 BE CSE-AI | Sathyabama Institute of Science and Technology  
 🚀 Passionate about GenAI, Autonomous Agents & Educational AI Systems
